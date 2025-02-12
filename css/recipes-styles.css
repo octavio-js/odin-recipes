@@ -1,0 +1,20 @@
+* {
+  font-family: sans-serif;
+}
+
+a {
+  color: blue;
+}
+
+h2 {
+  color: blueviolet;
+  background-color:burlywood;
+}
+
+ul, ol {
+  background-color:coral;
+}
+
+p {
+  background-color: lightcoral;
+}
