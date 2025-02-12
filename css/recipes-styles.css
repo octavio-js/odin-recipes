@@ -1,5 +1,13 @@
 * {
   font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  background-color: brown;
+  color: white;
+  border: 2px solid black;
 }
 
 a {
@@ -9,12 +17,18 @@ a {
 h2 {
   color: blueviolet;
   background-color:burlywood;
+  text-align: center;
+  padding: 15px;
+  border: 2px solid black;
 }
 
 ul, ol {
   background-color:coral;
+  border: 2px solid black;
 }
 
 p {
   background-color: lightcoral;
+  padding: 10px;
+  border: 2px solid black;
 }
